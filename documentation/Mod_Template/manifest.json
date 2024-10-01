@@ -164,14 +164,14 @@
             {
                 "dark":
                 {   
-                    "image": "wallpaper/dark.png",
+                    "image": "von wallpaper/lycaon video.webm",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#757575"
                 },
                 "light":
                 {
-                    "image": "wallpaper/video.webm",
-                    "first_frame": "wallpaper/first_frame.jpeg",
+                    "image": "von wallpaper/lycaon video.webm",
+                    "first_frame": "von wallpaper/lycaon still.png",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#0B000E"
                 }
